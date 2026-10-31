@@ -151,7 +151,3 @@ Check the entity IDs in your own Home Assistant – they depend on the device na
 - Tested with Watch brand RF smoke alarms and wall controller. Other brands that use the same radio module may work but haven't been tested.
 
 ---
-
-## Licence
-
-MIT – see `LICENSE`. Use at your own risk.
